@@ -13,4 +13,4 @@ PCB footprint for a Bourns SRR4028 4.8 mm square shielded inductor. The arc in t
 PCB footprint for a Bourns TC33X 3.8 mm x 3.6 mm trimmer potentiometer. A standard library 3314G potentiometer is referenced and scaled for the 3D model.
 
 ## SW_SPST_PTS647
-PCB footprint for a C&K PTS Series 647 4.5 mm square tact switch. A standard library PTS647 is referenced and scaled for the 3D model. The button height will not appear correct since various heights are available.
+PCB footprint for a C&K PTS647 series 4.5 mm square tact switch (push button). A standard library PTS647 is referenced and scaled for the 3D model. The button height will not appear correct since various heights are available.
