@@ -1,7 +1,7 @@
 # kicad_lib
 KiCad Parts Library
 
-Created with the Debian stable package of KiCad version 5.0.2+dfsg1-1~bpo9+1
+Created with the Debian 9.0+ backports package of KiCad version 5.0.2+dfsg1-1~bpo9+1
 
 ## C_0402_1005Metric_Plain
 PCB footprint for a capacitor in a 0402 package. Compared to the standard library footprint, the fab layer outline is enlarged, the fab layer refdes font is enlarged, and the fab layer value font is reduced in size. The silkscreen refdes is set to invisible. A standard 0402 capacitor is referenced for the 3D model. 
