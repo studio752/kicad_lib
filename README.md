@@ -19,4 +19,4 @@ PCB footprint for a Bourns TC33X 3.8 mm x 3.6 mm trimmer potentiometer. A standa
 PCB footprint for a resistor in a 0402 package. Compared to the standard library footprint, the fab layer outline is enlarged, the fab layer refdes font is enlarged, and the fab layer value font is reduced in size. The silkscreen refdes is set to invisible. A standard 0402 resistor is referenced for the 3D model. 
 
 ## SW_SPST_PTS647
-PCB footprint for a C&K PTS647 series 4.5 mm square tact switch (push button). A standard library PTS647 is referenced and scaled for the 3D model. The button height will not appear correct since various heights are available.
+PCB footprint for a C&K PTS647 series 4.5 mm square tact switch (push button). A standard library 6 mm PTS645 is referenced and scaled for the 3D model. The button height will not appear correct since various heights are available.
